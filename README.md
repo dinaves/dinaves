@@ -13,5 +13,5 @@ I'm Diego, passionate about data and analytics. I thrive on programming and deve
 ## Examples of Work
 
 
-## My stas on GitHub:
+## My stats on GitHub:
 [![dinaves's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinaves)](https://github.com/anuraghazra/github-readme-stats)
