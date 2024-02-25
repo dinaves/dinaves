@@ -1,6 +1,7 @@
 ### Hi! I'm Diego Naves 👋🏻
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navesfranco/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/navesfranco)
 
 ![dinaves's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinaves&show_icons=true&theme=gruvbox)
 
@@ -53,6 +54,3 @@
 ![Quicksight](https://img.shields.io/badge/QuickSight-9966FF?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Sagemaker](https://img.shields.io/badge/Sagemaker-4BC0C0?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-FF9F40?style=for-the-badge&logo=tableau&logoColor=white)
-
-
-
