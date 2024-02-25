@@ -1,4 +1,4 @@
-### Hi! I'm Diego Naves 👋🏻
+### Hi! I'm Diego 👋🏻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navesfranco/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/navesfranco)
